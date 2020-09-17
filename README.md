@@ -1,1 +1,1 @@
-https://tasty63.github.io/rsschool-cv/cv
+https://tasty63.github.io/rsschool-cv/
