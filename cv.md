@@ -15,6 +15,7 @@ frontend developer, so i am going to try my best in this rolling scopes course t
 * ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png) C++
 
 ## Experience
+https://github.com/Tasty63/volga-it - project for competition "volga-it'20" (BEM/JS/SCSS)
 
 ## Education
 Togliatti State University
