@@ -12,7 +12,6 @@ frontend developer, so i am going to try my best in this rolling scopes course t
 * ![HTML](https://img.icons8.com/color/30/000000/html-5.png) HTML5
 * ![CSS](https://img.icons8.com/color/30/000000/css3.png) CSS/SCSS
 * ![Javascript](https://img.icons8.com/color/30/000000/javascript.png) Basic JS
-* ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png) C++
 
 ## Experience
 https://github.com/Tasty63/volga-it - project for competition "volga-it'20" (BEM/JS/SCSS)
