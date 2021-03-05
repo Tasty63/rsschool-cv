@@ -41,9 +41,6 @@ li {
 	max-width: 800px;
 }
 
-.volga-it {
-	display: flex;
-}
 .volga-it__links {
 	display: flex;
 	flex-direction: column;
@@ -53,7 +50,9 @@ li {
 	font-size: 20px;
 	margin-bottom: 5px;
 }
-
+.volga-it {
+	display: flex;
+}
 .volga-it__text {
 	display: flex;
 	align-items: center;
